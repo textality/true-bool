@@ -1,0 +1,37 @@
+{
+  "name": "true-bool",
+  "version": "1.0.0",
+  "description": "Convert value to boolean(like Python bool).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/textality/true-bool.git"
+  },
+  "keywords": [
+    "bool",
+    "boolean",
+    "empty",
+    "is-empty",
+    "is empty",
+    "isempty",
+    "check empty",
+    "blank",
+    "is-blank",
+    "isblank",
+    "check blank",
+    "python bool",
+    "convert to boolean"
+  ],
+  "author": "textality",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/textality/true-bool/issues"
+  },
+  "homepage": "https://github.com/textality/true-bool#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
