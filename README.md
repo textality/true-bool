@@ -50,3 +50,5 @@ function foo(v) {
     }
 }
 ```
+### license
+MIT
