@@ -1,6 +1,6 @@
 {
   "name": "true-bool",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert value to boolean(like Python bool).",
   "main": "index.js",
   "scripts": {
